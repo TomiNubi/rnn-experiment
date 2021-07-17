@@ -10,6 +10,10 @@ from tensorflow.python.keras.models import Model, Sequential
 from tensorflow.python.keras.saving.save import load_model
 import matplotlib.pyplot as plt
 
+#Gates.py uses methods from Keras to access the inner workings of the LSTM and GRU networks and to investigate the behaviour of the gates
+#Using the raw code for the GRU and LSTM network, the getGates methods store the activation values for the networks after they make each character predictions
+#After a certain amount of predictions are made, a plot is created to show the spread of this activations and to give insight into the behaviour of the gates
+
 arrayShape = open("Text Files and Dictionary/arrayShape.txt", "r")
 shape = arrayShape.read().split("\n")
 
@@ -196,13 +200,6 @@ for layer in resultModelGRU.layers:
 
 text_to_predict = "black"
 
-# predictedText, h_tm1= generateSeqGRU(modelGRUFunc, 5, 1, text_to_predict )
-# h_t = get_gatesGRU(weightGRUFunc, encode_sequence(1, "n") , h_tm1)
-# #print(h_t)
-# # print(weightsDenseGRU)
-# print(resultModelGRU.get_weights())
-# predictedNo = resultModelGRU.predict(array(h_t).reshape(1, 1, hidden_units))
-# print(predictedChar(predictedNo))
 
 sequenceLength = 10
 h_tm1_gru = [[0]]
