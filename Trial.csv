@@ -1,0 +1,7 @@
+SequenceLength,LSTM train accuracy take 1,LSTM train accuracy take 2,LSTM train accuracy average,GRU train accuracy take 1,GRU train accuracy take 2,GRU train accuracy average,LSTM test accuracy take 1,LSTM test accuracy take 2,LSTM test accuracy average
+5,0,0,0,0,0,0,0,0,0
+1,0,0,0,0,0,0,0,0,0
+3,0,0,0,0,0,0,0,0,0
+5,0,0,0,0,0,0,0,0,0
+7,0,0,0,0,0,0,0,0,0
+8,0,0,0,0,0,0,0,0,0

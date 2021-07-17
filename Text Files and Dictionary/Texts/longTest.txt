@@ -1,0 +1,42 @@
+1.5 The theory-theory
+In response to such difficulties, many have urged that a better variant of
+functionalism is theory-theory (Lewis, 1966, 1970, 1980; Churchland, 1981;
+Stich, 1983). According to this view, mental state concepts (like theoretical
+concepts in science) get their life and sense from their position in a
+substantive theory of the causal structure and functioning of the mind.
+And on this view, to know what a belief is (to grasp the concept of belief) is
+to know sufficiently much of the theory of mind within which that concept
+is embedded. All the benefits of analytic functionalism are preserved. But
+there need be no commitment to the viability of an analytic/synthetic
+distinction.
+What of the point that some mental states can be conceptualised purely
+or primarily in terms of feel? A theory-theorist can allow that we have
+recognitional capacities for some of the theoretical entities characterised by
+the theory. (Compare the diagnostician who can recognise a cancer –
+immediately and without inference – in the blur of an X-ray photograph.)
+But it can be claimed that the concepts employed in such capacities are also
+partly characterised by their place in the theory – it is a recognitional
+application of a theoretical concept. Moreover, once someone possesses a
+recognitional concept, there can be nothing to stop them prising it apart
+from its surrounding beliefs and theories, to form a concept which is barely
+recognitional. Our hypothesis can be that this is what takes place when
+people say that it is conceptually possible that there should be pains with
+quite different causal roles.
+While some or other version of theory-theory is now the dominant
+position in the philosophy of mind, this is not to say that there are no
+difficulties, and no dissenting voices. This is where we begin in chapter 2:
+we shall be considering different construals of the extent of our folk psychological commitments, contrasting realist with instrumentalist accounts, and considering whether it is possible that our folk psychology
+might – as a substantive theory of the inner causes of behaviour – turn
+out to be a radically false theory, ripe for elimination. Then in chapter 4
+we shall be considering a recent rival to theory-theory, the so-called
+simulationist account of our folk-psychological abilities. And in chapters
+7 and 9 we consider the challenges posed for any naturalistic account of
+the mental (and for theory-theory in particular) by the intentionality (or
+‘aboutness’) of our mental states, and by the phenomenal properties (or
+‘feel’) of our experiences.
+In fact one of the main messages of this book is that the theory-theory
+account of our common-sense psychology is a fruitful framework for
+considering the relations between folk and scientific psychologies, and so is
+to that extent, at least, a progressive research programme (in the sense of
+Lakatos, 1970).
+
